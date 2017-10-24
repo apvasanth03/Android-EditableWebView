@@ -1,0 +1,7 @@
+/* Editable WebView Styles. */
+
+/* Remove's Border for ContentEditable Div */
+#contentBody{
+border:0;
+outline:none;
+}

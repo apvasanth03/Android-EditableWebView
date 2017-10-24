@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EditableWebView</string>
+
+    <!-- Main Activity. -->
+    <string name="get_content">Get Content</string>
+
+</resources>
